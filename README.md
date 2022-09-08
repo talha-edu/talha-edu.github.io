@@ -16,7 +16,7 @@
 
         <div align ="center"  >
 
-        <button class="button button1" onclick=" window.location.href='book.html';">
+        <button class="button button1" onclick=" window.location.href='Book.html';">
             Go to E-book</Button>
         </div>
 
